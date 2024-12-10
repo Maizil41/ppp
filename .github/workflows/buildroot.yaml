@@ -8,7 +8,7 @@ jobs:
     strategy:
       matrix:
         defconfig_name:
-          - qemu_armsr_armv8_defconfig
+          - armsr_armv8_defconfig
           #- qemu_x86_defconfig
           #- qemu_x86_64_defconfig
           #- raspberrypi4_defconfig
